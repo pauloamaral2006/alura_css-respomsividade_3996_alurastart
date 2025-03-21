@@ -279,6 +279,11 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: var(--gap-2xl);
+
+  @media (max-width: 768px), (orientation: landscape) {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
 }
 
 .sobre-nos__beneficios--card {
@@ -358,6 +363,11 @@ body {
   border-radius: 10px;
   padding: var(--padding-l) 5.5rem;
   border: 1px solid transparent;
+
+  @media not all and (min-width: 768px) {
+    flex: 1 1 50px;
+    max-width: 25%;
+  }
 }
 
 .nosso-impacto__estatistica.impacto-estudantes {
@@ -405,6 +415,9 @@ body {
     align-items: center;
     padding: 5rem 0;
 
+    @media (max-width: 768px) {
+      gap: var(--gap-xl);
+    }
     & > a:hover {
       transition: 0.2s ease-in;
       background-color: var(--cor-destaque-roxo);
@@ -437,6 +450,10 @@ body {
   & > p.vantagens__descricao {
     color: var(--cor-texto);
     text-align: justify;
+
+    @media (max-width: 768px) {
+      text-align: normal;
+    }
   }
 }
 
