@@ -1,51 +1,43 @@
-![Alura Start](thumb.png)
-
 # Alura Start
 
-A Alura Start faz parte do ecossistema Alura e é voltada para introduzir crianças e adolescentes ao mundo da tecnologia e programação de forma divertida e educativa. Através de projetos práticos, a plataforma ensina lógica de programação, pensamento computacional e habilidades digitais.
+## ℹ️ Sobre
 
-<p align="center">
-  <img src="./desktop.png" alt="Tela desktop" width="30%" style="vertical-align: top; margin-right: 20px;" />
-  <img src="./tablet.png" alt="Tela tablet" width="20%" style="vertical-align: top; margin-right: 20px;"/>
-  <img src="./mobile.png" alt="Tela mobile" width="10%" style="vertical-align: top;"/>
-</p>
+<p>Projeto utilizado no curso para aprendizado das técnicas e melhores práticas.</p>
 
-## 🔨 Funcionalidades do projeto
+## 📘Ementa
 
-Neste estágio de desenvolvimento, o site possui as seguintes funcionalidades:
+### CSS: aplique responsividade usando media queries
 
-- Página estática com os principais planos, ofertas, serviços, parceiros e outras informações relevantes.
+- Usar media queries para criar layouts responsivos
+- Aplicar técnicas de layout fluido com medidas flexíveis
+- Implementar imagens responsivas usando srcset
+- Entender como flexbox e grid podem ajudar na construção de layout fluido
+- Testar e ajuste a responsividade do layout
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/community/file/1410337229734538357).
+## 🖥️ Tecnologias
 
-## ✔️ Técnicas e tecnologias utilizadas
+<div>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+</div>
 
-O projeto utiliza as seguintes tecnologias e bibliotecas:
+## 🧑‍🏫 Instrutor(es)
 
-- `HTML` - Para estrutura e marcação dos elementos da página
-- `CSS` - Para criação de folhas de estilo em cascata
-- `Figma` - Para prototipagem do projeto
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/77410403?v=4" width=115><br><sub>Neilton Seguins</sub>](https://github.com/NeiltonSeguins) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-E outros...
+## 💻 Screenshot
 
-## 🛠️ Abrir e rodar o projeto
+<div align="center">
+  
+  #### Tablet
+  <img loading="lazy" src="./assets/screenshot-mobile.png" style="height: 500px" />
 
-Para executar o projeto em seu ambiente local, siga estas etapas:
+#### Tablet
 
-1. Baixe o repositório do projeto.
+  <img loading="lazy" src="./assets/screenshot-tablet.png" style="width: 100%" />
+  
+  #### Desktop
+  <img loading="lazy" src="./assets/screenshot-desktop.png" style="width: 100%" />
 
-1. Extraia os arquivos para uma pasta de sua preferência.
-
-1. Navegue até a pasta em questão
-
-1. Abra o arquivo `index.html` no seu navegador, iniciando assim o projeto localmente
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais?
-
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/community/file/1410337229734538357). Este projeto é fictício e apenas reproduz o site original da Alura Start. 
-
-Você pode visitar o site real da Alura Start e [conhecer as vantagens e os benefícios para sua escola acessando este link](https://www.alurastart.com.br/).
-
-Aproveite o desenvolvimento e aprimoramento do site da Alura Start!
+</div>
