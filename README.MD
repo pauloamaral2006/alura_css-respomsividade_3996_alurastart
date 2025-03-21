@@ -12,7 +12,7 @@
 - Aplicar técnicas de layout fluido com medidas flexíveis
 - Implementar imagens responsivas usando srcset
 - Entender como flexbox e grid podem ajudar na construção de layout fluido
-- Testar e ajuste a responsividade do layout
+- Testar e ajustar a responsividade do layout
 
 ## 🖥️ Tecnologias
 
